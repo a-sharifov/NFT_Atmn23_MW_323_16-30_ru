@@ -1,7 +1,7 @@
 import  tkinter as tk
 import random
 from functools import partial
-
+# https://www.geeksforgeeks.org/python/how-to-add-an-image-in-tkinter/
 
 def game(choice):
     text_result = ""
